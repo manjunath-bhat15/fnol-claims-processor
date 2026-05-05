@@ -1,5 +1,3 @@
-
-
 # FNOL Claims Processor
 
 A Python-based system to process First Notice of Loss (FNOL) documents by extracting structured data, validating required fields, and routing claims intelligently.
@@ -13,6 +11,7 @@ A Python-based system to process First Notice of Loss (FNOL) documents by extrac
 * Cleans and normalizes raw input text
 * Identifies missing required fields
 * Automatically routes claims based on business rules
+* Supports processing single files or entire folders (CLI-based)
 
 ---
 
@@ -90,9 +89,27 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
+### Process a single file
+
 ```bash
-python main.py
+python main.py sample_data/claim-complete-1.txt
 ```
+
+### Process all files in a folder
+
+```bash
+python main.py sample_data/
+```
+
+---
+
+## ⚙️ How it Works
+
+* Accepts file or folder path as input
+* Processes single or multiple files automatically
+* Extracts structured data from each document
+* Validates required fields
+* Routes claims based on business rules
 
 ---
 
