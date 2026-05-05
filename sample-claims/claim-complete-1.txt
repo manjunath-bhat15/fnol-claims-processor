@@ -1,0 +1,29 @@
+Policy Number: POL-VEH-778899
+Policyholder Name: Arjun Kumar
+Policy Effective Dates: 01/01/2026 - 31/12/2026
+
+Date of Loss: 04/05/2026
+Time of Loss: 10:15 AM
+Location of Incident: Hyderabad, Telangana
+
+Asset Type: Vehicle
+Asset ID: TS09AB1234
+
+Claim Type: Property
+Estimated Damage Amount: 15000 INR
+Initial Estimate: 15000 INR
+
+Description of Incident:
+While reversing in a parking lot, the rear door of the vehicle was scratched against a concrete pillar. The damage is limited to paint scratches and minor denting.
+
+Claimant Name: Arjun Kumar
+Contact Details:
+Phone: 9876543210
+Email: arjun.kumar@email.com
+
+Third Parties Involved:
+None
+
+Attachments:
+rear_door_damage.jpg
+repair_estimate.pdf

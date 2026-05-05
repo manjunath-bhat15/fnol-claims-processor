@@ -1,0 +1,29 @@
+Policy Number: POL-FRD-888333
+Policyholder Name: Karan Malhotra
+Policy Effective Dates: 01/01/2026 - 31/12/2026
+
+Date of Loss: 05/04/2026
+Time of Loss: 11:50 PM
+Location of Incident: Delhi
+
+Asset Type: Vehicle
+Asset ID: DL09ZZ9999
+
+Claim Type: Property
+Estimated Damage Amount: 35000 INR
+Initial Estimate: 35000 INR
+
+Description of Incident:
+The accident appears to be staged and inconsistent with the reported events. There are signs suggesting possible fraud.
+
+Claimant Name: Karan Malhotra
+Contact Details:
+Phone: 9999988888
+Email: करण.malhotra@email.com
+
+Third Parties Involved:
+Unknown vehicle
+
+Attachments:
+evidence.jpg
+report.pdf

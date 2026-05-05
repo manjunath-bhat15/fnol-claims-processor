@@ -1,0 +1,17 @@
+Policy Number: POL-INJ-201
+Policyholder Name: Amit Shah
+
+Date of Loss: 10/01/2026
+Time of Loss: 11:00 AM
+Location of Incident: Ahmedabad, Gujarat
+
+Asset Type: Vehicle
+Asset ID: GJ01AA3333
+
+Estimated Damage Amount: 20000 INR
+
+Description of Incident:
+The driver sustained head injury and was taken to hospital after a collision at an intersection.
+
+Attachments:
+hospital_report.pdf
